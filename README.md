@@ -2,7 +2,7 @@
 
 ## Import library
 ``` python
-from Libraries import nd2reader
+from ND2_Reader_Wtry import nd2reader
 ```
 ## Import ND2 file
 ``` python
