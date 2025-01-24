@@ -1,4 +1,4 @@
-# ND2_Reader_Wtry for windows only
+# ND2_Reader for windows only
 
 ## Import library
 ``` python
